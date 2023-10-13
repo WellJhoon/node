@@ -1,0 +1,32 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "learning node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WellJhoon/node.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "jhon Michael Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WellJhoon/node/issues"
+  },
+  "homepage": "https://github.com/WellJhoon/node#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
